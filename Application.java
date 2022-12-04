@@ -4,5 +4,11 @@ public class Application {
         System.out.println("CPF: 078.531.417-26");
         System.out.println("Sexo: Masculino");
         System.out.println("Tipo de Pessoa: Física");
+        System.out.println("Tipo de Pessoa: Física");
+        System.out.println("Tipo de Pessoa: Física");
+        System.out.println("Tipo de Pessoa: Física");
+        System.out.println("Tipo de Pessoa: Física");
+
+
     }
 }
